@@ -34,7 +34,7 @@ const skills = {
   frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS', 'Bootstrap', 'HTML', 'CSS'],
   backend: ['Python', 'Java', 'C#', 'PHP'],
   mobile: ['React Native'],
-  databases: ['MySQL', 'PostgreSQL', 'MongoDB', 'MariaDB'],
+  databases: ['SQLServer', 'MySQL', 'PostgreSQL', 'MongoDB', 'MariaDB'],
   devOps: ['Git', 'Docker', 'AWS', 'Azure', 'Cloudflare', 'Hostinger'],
   testing: ['Pruebas Unitarias', 'Pruebas de Integración']
 };
