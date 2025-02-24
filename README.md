@@ -1,5 +1,5 @@
 <div align="center">
-🖥️  
+
 # Angel Amaya
 ### Desarrollador de Software | Ingeniero en Sistemas | Tech Enthusiast
 
