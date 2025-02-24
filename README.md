@@ -43,7 +43,7 @@ const skills = {
 ## 🚀 Proyectos Destacados
 
 ### En Desarrollo
-- "Proximamente..."
+- ```Proximamente...
 
 ## 📫 Conectemos
 
