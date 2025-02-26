@@ -9,7 +9,7 @@
 
 ---
 <div align="center">
-## 👋 ¡Bienvenido!
+# ¡Bienvenido!
 </div>
 Soy un apasionado desarrollador de software especializado en crear soluciones innovadoras y escalables. Me encontrarás constantemente explorando nuevas tecnologías y compartiendo conocimientos. Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme!
 
