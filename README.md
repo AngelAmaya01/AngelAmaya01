@@ -67,6 +67,4 @@ const skills = {
 
 *"Construyendo el futuro digital, una línea de código a la vez"*
 
-⭐️ ¡No olvides dejar una estrella si te gusta algún proyecto! ⭐️
-
 </div>
