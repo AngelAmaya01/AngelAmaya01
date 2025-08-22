@@ -51,7 +51,7 @@ const skills = {
 
 - 📧 **Email:** [angelnataren16@gmail.com](mailto:angelnataren16@gmail.com)
 - 📷 **Instagram:** [@angel_its21](https://www.instagram.com/angel_its21/)
-- 💼 **LinkedIn:** [Perfil LinkedIn]()
+- 💼 **LinkedIn:** [Perfil LinkedIn](https://www.linkedin.com/in/angel-amaya-6084411ab/)
 - 🌐 **Portafolio:** [Website](https://angel-amaya.vercel.app/)
 
 ## 🤝 Colaboración
