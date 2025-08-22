@@ -3,7 +3,7 @@
 # Angel Amaya
 ### Desarrollador de Software | Ingeniero en Sistemas | Tech Enthusiast
 
-[📧 Email](mailto:angelnataren16@gmail.com) • [📷 Instagram](https://www.instagram.com/angel_its21/) • [💼 LinkedIn]() • [🌐 Portafolio](https://angel-amaya.vercel.app/)
+[📧 Email](mailto:angelnataren16@gmail.com) • [📷 Instagram](https://www.instagram.com/angel_its21/) • [💼 LinkedIn](https://www.linkedin.com/in/angel-amaya-6084411ab/) • [🌐 Portafolio](https://angel-amaya.vercel.app/)
 
 </div>
 
