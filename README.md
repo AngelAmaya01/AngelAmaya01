@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Backend+%7C+Web+%7C+Mobile;Bases+de+datos+y+reportes;Soluciones+escalables+en+producci%C3%B3n;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
 </a>
 
+📍 Honduras
+
 [![Email](https://img.shields.io/badge/Email-angelnataren16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelnataren16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Amaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-amaya-6084411ab/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-angel--amaya.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://angel-amaya.vercel.app/)
@@ -28,17 +30,27 @@ Soy desarrollador de sistemas en **Credifac**, donde trabajo en el ciclo complet
 
 ## 🚀 Proyectos destacados
 
-### 🏦 Credifac — plataforma financiera (proyecto profesional)
+> Los repositorios de esta sección son privados (trabajo para empresas y clientes), por eso no tienen enlace. Si quieres ver el código o una demo, escríbeme.
 
-Ecosistema completo que desarrollo y mantengo como parte de mi trabajo. Por ser software de empresa, el código es privado.
+### 🏦 Credifac — plataforma financiera
 
-| Componente | Descripción |
-|---|---|
-| 🌐 **Web (Frontend)** | Aplicación web interna: gestión de clientes, cartera, módulo de metas y reportes. |
-| 📱 **Mobile** | App móvil para el equipo y clientes, publicada para Android. |
-| ⚙️ **Backend** | API y lógica de negocio, bases de datos, reportes y despliegue en servidor. |
+Sistema para **CREDIFAC**, financiera de Honduras y El Salvador, que cubre el ciclo de crédito completo: solicitudes, análisis, aprobación, desembolso, cobros, cajas, cierres de agencia y reportes. También incluye la landing pública.
 
-*Pronto: más proyectos públicos.* Mientras tanto, mira mi [portafolio](https://angel-amaya.vercel.app/).
+| Componente | Descripción | Tecnologías |
+|---|---|---|
+| 🌐 **Web (Frontend)** | Sistema web interno y landing pública. | React 18 · Vite · Tailwind CSS · Recharts · Leaflet |
+| ⚙️ **Backend** | API, base de datos, scripts de migración y reportes. | Laravel (PHP) · MySQL |
+| 📱 **Mobile** | App móvil publicada en Google Play. | Android |
+
+### 🧩 Otros proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 📦 **Tally** | App de inventario *offline-first* para micronegocios: libro de stock, escaneo de códigos de barras, conteos físicos y reportes, con datos locales en el dispositivo. | React Native · Expo · TypeScript · SQLite |
+| 🛒 **VIStudio API** | API REST de un e-commerce de productos de sublimación y paneles LED. | Node.js · MySQL |
+| 💧 **AquaSystem y API-AQS** | Frontend web y API del sistema de Aguas Emasar. | React · Vite · C# (.NET) · Docker · Firebase |
+| 🌸 **Floralize (Backend)** | Backend de la plataforma Floralize, en colaboración con otro desarrollador. | C# (.NET) · Docker |
+| 🏠 **Inmoci** | Aplicación web con backend en Laravel, del equipo de Credifac. | Laravel (PHP) |
 
 ---
 
