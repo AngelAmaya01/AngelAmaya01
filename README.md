@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Backend+%7C+Web+%7C+Mobile;Bases+de+datos+y+reportes;Soluciones+escalables+en+producci%C3%B3n;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
 </a>
 
-📍 Honduras
-
 [![Email](https://img.shields.io/badge/Email-angelnataren16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelnataren16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Amaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-amaya-6084411ab/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-angel--amaya.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://angel-amaya.vercel.app/)
